@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'DB LCD';
+  src: url('/assets/fonts/DB_LCD_Temp-Black.ttf') format('truetype');
+  font-display: swap;
+}
+
+.lcd-font {
+  font-family: 'DB LCD' !important;
+}
