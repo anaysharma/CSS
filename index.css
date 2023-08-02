@@ -4,6 +4,16 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: 'Harry P';
+  src: url('HARRYP__.TTF') format('truetype');
+  font-display: swap;
+}
+
 .lcd-font {
   font-family: 'DB LCD' !important;
+}
+
+.harry-potter-font {
+  font-family: 'Harry P' !important;
 }
